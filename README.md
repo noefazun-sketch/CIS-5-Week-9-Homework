@@ -13,7 +13,13 @@ Work without a working video link is incomplete.
 The video is half the grade. Explain each function, what goes in, and what comes back. Then show choice 1, choice 2, and quit.
 
 **Your demo:** _[add your link here_](https://youtu.be/mO00LmkVAm8)
+## My Functions
 
+- **average:** Takes four scores and returns the average as a double.
+- **printSummary:** Takes the average and prints it. Returns nothing.
+- **printMenu:** Shows the three menu choices. Takes nothing and returns nothing.
+- **high:** Takes four scores and returns the highest score as an integer.
+- **main:** Lets the user choose an option and runs the program until they choose 3. Returns 0 when finished.
 
 ## What to build
 
